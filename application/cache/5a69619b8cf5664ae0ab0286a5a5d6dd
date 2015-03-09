@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+1425848807TS---><!DOCTYPE html>
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8">
@@ -27,7 +27,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://www.dachuwang.com" target="_blank">大厨网</a>
+      <a class="navbar-brand" href="http://www.ymt.com" target="_blank">一亩田</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -50,3 +50,28 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+<h3>欢迎来到我的留言板！请先登录 <span class="label label-default">^_^</span></h3>
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <div class="checkbox">
+    <label>
+      <input type="checkbox"> Check me out
+    </label>
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
+  <a class="btn btn-default" href="#" role="button">注册</a>
+</form>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js"></script> 
+   </body>
+</html>
